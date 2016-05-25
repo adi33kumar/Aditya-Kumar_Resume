@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 18:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 20:45
 entering extended mode
 **Aditya.tex
-("C:\Users\Aditya Kumar\Desktop\tex files\Aditya_resume\Aditya.tex"
+("C:\Users\Aditya Kumar\Desktop\Aditya-Kumar_Resume\Aditya.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -70,7 +70,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Aditya Kumar\Desktop\tex files\Aditya_resume\Aditya.aux")
+("C:\Users\Aditya Kumar\Desktop\Aditya-Kumar_Resume\Aditya.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
@@ -102,48 +102,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
-<Aditya.jpg, id=1, 86.57344pt x 101.62968pt>
-File: Aditya.jpg Graphic file (type jpg)
- <use Aditya.jpg>
-Package pdftex.def Info: Aditya.jpg used on input line 17.
-(pdftex.def)             Requested size: 60.60098pt x 71.14027pt.
-
-Overfull \hbox (71.13496pt too wide) in paragraph at lines 12--19
-[][] 
- []
-
-
-Overfull \hbox (41.05093pt too wide) in paragraph at lines 23--34
-[] 
- []
-
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Aditya Kumar/Des
-ktop/tex files/Aditya_resume/Aditya.jpg>] [2] [3]
-("C:\Users\Aditya Kumar\Desktop\tex files\Aditya_resume\Aditya.aux") ) 
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\Aditya Kumar\Desktop\Aditya-Kumar_Resume\Aditya.aux") ) 
 Here is how much of TeX's memory you used:
- 1252 strings out of 493921
- 16760 string characters out of 3147261
- 70127 words of memory out of 3000000
- 4581 multiletter control sequences out of 15000+200000
- 7897 words of font info for 28 fonts, out of 3000000 for 9000
+ 1228 strings out of 493921
+ 16440 string characters out of 3147261
+ 65127 words of memory out of 3000000
+ 4564 multiletter control sequences out of 15000+200000
+ 4853 words of font info for 18 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,13n,19p,218b,227s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Aditya.pdf (3 pages, 89422 bytes).
+ 27i,4n,19p,218b,137s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on Aditya.pdf (1 page, 18073 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 14 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
