@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 20:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.24)  25 MAY 2016 20:49
 entering extended mode
 **Aditya.tex
 ("C:\Users\Aditya Kumar\Desktop\Aditya-Kumar_Resume\Aditya.tex"
@@ -114,6 +114,11 @@ Overfull \hbox (54.13496pt too wide) in paragraph at lines 10--18
 [] 
  []
 
+
+Overfull \hbox (41.05093pt too wide) in paragraph at lines 22--33
+[] 
+ []
+
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Aditya Kumar/Des
@@ -122,7 +127,7 @@ ktop/Aditya-Kumar_Resume/Aditya.jpg>]
 Here is how much of TeX's memory you used:
  1252 strings out of 493921
  16732 string characters out of 3147261
- 66127 words of memory out of 3000000
+ 68127 words of memory out of 3000000
  4581 multiletter control sequences out of 15000+200000
  7897 words of font info for 28 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -130,7 +135,7 @@ Here is how much of TeX's memory you used:
 <C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Aditya.pdf (1 page, 57944 bytes).
+Output written on Aditya.pdf (1 page, 61227 bytes).
 PDF statistics:
  15 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
